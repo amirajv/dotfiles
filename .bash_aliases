@@ -1,0 +1,10 @@
+alias ll='ls -alh --group-directories-first'
+alias l='ll'
+alias pd='pwd'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias grep='grep --color -r -s -I --exclude=\*.{\*~}'
+alias emacs='emacs &'
+alias mkdir='mkdir -p'
+
