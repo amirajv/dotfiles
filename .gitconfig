@@ -1,8 +1,5 @@
 [credential]
 	helper = store
-[user]
-	name = Amir Javaheri
-        email = amir.ajv@gmail.com
 [web]
 	browser = google-chrome
 [color]
