@@ -1,8 +1,9 @@
 [credential]
 	helper = store
-[web]
-	browser = google-chrome
 [color]
 	ui = auto
-
-	
+[init]
+	defaultBranch = main	
+[user]
+	name = 
+	email = 
